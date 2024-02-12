@@ -1,16 +1,5 @@
 # Fluid Dynamics Analysis Script
 
-This Python script analyzes fluid dynamics simulation data from a CSV file using Pandas, NumPy, and Matplotlib. It performs various tasks, including extracting relevant columns, computing and visualizing mean velocity profiles, Reynolds stresses, turbulent viscosity, and more.
-
-## Prerequisites
-
-Ensure you have Python installed. Install required libraries:
-
-```bash
-pip install pandas numpy matplotlib
-
-# Overview
-
 The script performs the following tasks:
 
     Loads fluid dynamics simulation data from a CSV file into a Pandas DataFrame.
@@ -33,3 +22,12 @@ The script performs the following tasks:
 ## Output
 
 The script generates various visualizations representing different aspects of fluid dynamics, such as mean velocity profile, Reynolds stresses, turbulent viscosity, and more. These visualizations are displayed using Matplotlib.
+
+
+## Prerequisites
+
+Ensure you have Python installed. Install required libraries:
+
+```bash
+pip install pandas numpy matplotlib
+
